@@ -1,0 +1,1 @@
+This is Adrien's learning project with The Odin Project.
